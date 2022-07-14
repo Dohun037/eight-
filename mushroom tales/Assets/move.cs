@@ -15,7 +15,7 @@ public class move : MonoBehaviour
 
     private void Start()
     {
-        speed = 1;
+        speed = 5;
     }
 
     // Update is called once per frame
